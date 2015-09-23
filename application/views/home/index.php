@@ -1,11 +1,9 @@
 <div id="main-container" class="container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-3" style="margin-top: 40px">
             <img src="<?= base_url('images/profile.png') ?>" alt="">
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md-10">
+        <div class="col-md-9">
             <h1>Runwei Qiang</h1>
             <p>
             <a target="_blank" href="http://www.icst.pku.edu.cn/">Institute of Computer Science and Technology</a> of 
@@ -16,9 +14,12 @@
             <p><strong>LinkedIn:</strong><a target="_blank" href="http://www.linkedin.com/in/qiangrw">linkedin.com/in/qiangrw</a> </p>
             <p><strong>Github:</strong><a target="_blank" href="http://github.com/qiangrw">github.com/qiangrw</a> </p>
             <p><strong>Weibo:</strong><a target="_blank" href="http://weibo.com/qiangrw">weibo.com/qiangrw</a> </p>
+        </div>
+    </div>
 
 
-
+    <div class="row">
+        <div class="col-md-10">
             <h2>About</h2>
             <p>
             Currently I am a third year graduate student of Institute of Computer Science and
