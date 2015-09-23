@@ -35,6 +35,7 @@
             <li class="<?= $active[1] ?>"><a href="<?= site_url('home/publications') ?>">Publications</a></li>
             <li class="<?= $active[2] ?>"><a href="<?= site_url('home/experience') ?>">Experience</a></li>
             <li class="<?= $active[3] ?>"><a href="<?= site_url('home/honors') ?>">Honors</a></li>
+            <li><a href="<?= base_url('download/RunweiQiang_CV_EN.pdf') ?>">CV</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
