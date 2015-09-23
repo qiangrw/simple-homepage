@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Homepage for Runwei Qiang">
     <meta name="author" content="Runwei Qiang">
-    <!--<link rel="icon" href="../../favicon.ico">-->
-    <title><?= $title ?></title>
+    <link rel="icon" href="<?= base_url('images/favicon.ico') ?>">
+    <title>Runwei::<?= $title ?></title>
     <link href="<?= base_url('assets/css/bootstrap.min.css') ?>" rel="stylesheet">
     <link href="<?= base_url('assets/css/simple-homepage.css') ?>" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->

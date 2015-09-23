@@ -176,7 +176,7 @@
     "@navbar-inverse-brand-hover-color": "#ffffff",
     "@navbar-inverse-brand-hover-bg": "transparent",
     "@navbar-inverse-toggle-hover-bg": "transparent",
-    "@navbar-inverse-toggle-icon-bar-bg": "transparent",
+    "@navbar-inverse-toggle-icon-bar-bg": "#ffffff",
     "@navbar-inverse-toggle-border-color": "#333",
     "@nav-link-padding": "10px 15px",
     "@nav-link-hover-bg": "@gray-lighter",
@@ -430,5 +430,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=2c42e5204e1b7f15c47a"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=cfb308efc6f84a8ecfe4"
 }

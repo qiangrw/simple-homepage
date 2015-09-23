@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=2c42e5204e1b7f15c47a)
- * Config saved to config.json and https://gist.github.com/2c42e5204e1b7f15c47a
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=cfb308efc6f84a8ecfe4)
+ * Config saved to config.json and https://gist.github.com/cfb308efc6f84a8ecfe4
  */
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
@@ -4685,7 +4685,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   background-color: transparent;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-  background-color: transparent;
+  background-color: #ffffff;
 }
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
