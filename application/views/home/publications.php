@@ -1,6 +1,6 @@
 <div id="main-container" class="container">
     <div class="row">
-        <div class="cul-md-12">
+        <div class="col-md-12">
             <h2>Paper</h2>
             <ul>
                 <li>

@@ -27,6 +27,7 @@
                 <strong>Software Engineer</strong> at 
                 <a target="_blank" href="http://google.com">Google Japan</a>,
                 11/2015 - present  
+                (mentor: Tomo Nanno)
                 </li>
                 <li> 
                 <strong>Algorithm Engineer Intern</strong> at <a target="_blank" href="http://yidianzixun.com">Yidian Inc.</a>, 02/2015 - 07/2015 
@@ -40,7 +41,7 @@
                 </li> 
                 <li> 
                 <strong>Software Engineer Intern</strong> at <a target="_blank" href="http://hulu.com">Hulu</a>, 07/2012 - 10/2012 
-               (mentor: Chao Li) 
+                (mentor: Chao Li) 
                 </li> 
             </ul>
         </div>
