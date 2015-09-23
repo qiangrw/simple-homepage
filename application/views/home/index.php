@@ -44,14 +44,16 @@
             </p>
 
             <p>
-            I received my M.Sc. from EECS of <a href="http://www.pku.edu.cn">Peking University</a>.  My research interest is information retrieval and data mining techniques on Microblog Search (i.e. short text retrieval), advised by <a href="http://webkdd.org/person/yangjw"> Prof. Jianwu Yang </a>. 
+            I received my M.S. from EECS of <a href="http://www.pku.edu.cn">Peking University</a> (2015.7).  
+My research interest is information retrieval and data mining techniques on Microblog Search (i.e. short text retrieval), advised by <a href="http://webkdd.org/person/yangjw"> Prof. Jianwu Yang </a>. 
             
             During my college life, I authored several research papaers and field a couple of
             patents. Also, I participated Microblog track four times and got first prize in TREC 2014. 
             </p>
 
             <p>
-            Prior to that, I received my B.Sc. degree in Computer Science from <a href="http://www.nju.edu.cn">Nanjing University</a>. In September 2012, I was admitted to study for a M.Sc. degree in Peking University without entrance examination.
+            Prior to that, I received my B.S. degree in Computer Science from <a href="http://www.nju.edu.cn">Nanjing University</a> (2012.7). 
+            In September 2012, I was admitted to study for a M.S. degree in Peking University without entrance examination.
             </p>
         </div>
     </div>

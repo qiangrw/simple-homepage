@@ -1,5 +1,7 @@
 body { padding-top: 54px; }
 #main-container { padding: 20px 15px; }
+#main-container li { line-height: 1.8; }
 /*#navbar li {min-width: 140px; text-align: center; }*/
 .social-panel a { padding: 10px 4px; }
 .thumbnail { border: none; }
+.honor-text { padding: 12px 12px; line-height: 60px; vertical-align: bottom; height: 94px; }

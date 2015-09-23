@@ -27,14 +27,14 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="<?= site_url('home') ?>">Runwei</a>
+          <a class="navbar-brand" href="<?= site_url('home') ?>">RUNWEI</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="<?= $active[0] ?>"><a href="<?= site_url('home/index')  ?>">HOME</a></li>
-            <li class="<?= $active[1] ?>"><a href="<?= site_url('home/publications') ?>">PUBLICATIONS</a></li>
-            <li class="<?= $active[2] ?>"><a href="<?= site_url('home/experience') ?>">EXPERIENCE</a></li>
-            <li class="<?= $active[3] ?>"><a href="<?= site_url('home/honors') ?>">HONORS</a></li>
+            <li class="<?= $active[0] ?>"><a href="<?= site_url('home/index')  ?>">Home</a></li>
+            <li class="<?= $active[1] ?>"><a href="<?= site_url('home/publications') ?>">Publications</a></li>
+            <li class="<?= $active[2] ?>"><a href="<?= site_url('home/experience') ?>">Experience</a></li>
+            <li class="<?= $active[3] ?>"><a href="<?= site_url('home/honors') ?>">Honors</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
