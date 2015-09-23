@@ -1,3 +1,5 @@
 body { padding-top: 54px; }
 #main-container { padding: 20px 15px; }
-#navbar li {min-width: 140px; text-align: center; }
+/*#navbar li {min-width: 140px; text-align: center; }*/
+.social-panel a { padding: 10px 4px; }
+.thumbnail { border: none; }

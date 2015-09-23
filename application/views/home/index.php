@@ -13,28 +13,95 @@
             </p>
             <p><strong>Office:</strong> No.128 Zhongguancun North Street, Haidian District, Beijing</p>
             <p><strong>Email:</strong> qiangrw#gmail.com </p>
-            <p><strong>LinkedIn:</strong><a target="_blank" href="http://www.linkedin.com/in/qiangrw">linkedin.com/in/qiangrw</a> </p>
-            <p><strong>Github:</strong><a target="_blank" href="http://github.com/qiangrw">github.com/qiangrw</a> </p>
-            <p><strong>Weibo:</strong><a target="_blank" href="http://weibo.com/qiangrw">weibo.com/qiangrw</a> </p>
+            <br>
+            <p class="social-panel"> 
+            <a target="_blank" href="http://www.linkedin.com/in/qiangrw">
+                <img src="<?= base_url('images/social/linkedin.png') ?>" alt="linkedin">
+            </a> 
+            <a target="_blank" href="http://weibo.com/qiangrw">
+                <img src="<?= base_url('images/social/weibo.png') ?>" alt="weibo">
+            </a>
+            <a target="_blank" href="http://github.com/qiangrw">
+                <img src="<?= base_url('images/social/github.png') ?>" alt="github">
+            </a> 
+            <a target="_blank" href="http://facebook.com/qiangrw">
+                <img src="<?= base_url('images/social/fb.png') ?>" alt="fb">
+            </a>
+            <a target="_blank" href="http://google.com/+RunweiQiang">
+                <img src="<?= base_url('images/social/google.png') ?>" alt="google">
+            </a>
+            </p>
         </div>
     </div>
 
 
+    <br>
     <div class="row">
         <div class="col-md-10">
             <h2>About</h2>
             <p>
-            Currently I am a third year graduate student of Institute of Computer Science and
-            Technology in Peking University. My research interest is information retrieval.
+            I will be a software engineer in <a href="http://google.com">Google</a> and my mentor is Tomo Nanno.
             </p>
 
             <p>
-            I received my B.Sc. degree in Computer Science and Technology in June 2012 from Nanjing
-            University. In September 2012, I was admitted to study for a M.Sc. degree in Peking
-            University without entrance examination.
+            I received my M.Sc. from EECS of <a href="http://www.pku.edu.cn">Peking University</a>.  My research interest is information retrieval and data mining techniques on Microblog Search (i.e. short text retrieval), advised by <a href="http://webkdd.org/person/yangjw"> Prof. Jianwu Yang </a>. 
+            
+            During my college life, I authored several research papaers and field a couple of
+            patents. Also, I participated Microblog track four times and got first prize in TREC 2014. 
+            </p>
+
+            <p>
+            Prior to that, I received my B.Sc. degree in Computer Science from <a href="http://www.nju.edu.cn">Nanjing University</a>. In September 2012, I was admitted to study for a M.Sc. degree in Peking University without entrance examination.
             </p>
         </div>
     </div>
+
+    <br>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Skills</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="<?= base_url('images/skills/programming.png') ?>" alt="Programming">
+                <div class="caption">
+                    <center>
+                    <h3>Programming Language</h3>
+                    <p>C/C++, Perl, PHP, Java, Ruby</p>
+                    </center>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="<?= base_url('images/skills/web_development.png') ?>" alt="Web Development">
+                <div class="caption">
+                    <center>
+                    <h3>Web Development</h3>
+                    <p>CodeIgniter, HTML/CSS, JQuery, Bootstrap</p>
+                    </center>
+                </div>
+            </div>
+        </div> 
+
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="<?= base_url('images/skills/web_development.png') ?>" alt="Web Development">
+                <div class="caption">
+                    <center>
+                    <h3>Data Mining</h3>
+                    <p>Lemur/Indri, SVM<sup>rank</sup>, Weka, LibLinear</p>
+                    </center>
+                </div>
+            </div>
+        </div> 
+         
+    </div>
+
 </div><!-- /.container -->
 
 
