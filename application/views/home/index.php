@@ -1,7 +1,9 @@
 <div id="main-container" class="container">
     <div class="row">
         <div class="col-md-3" style="margin-top: 40px">
+            <center>
             <img src="<?= base_url('images/profile.png') ?>" alt="">
+            </center>
         </div>
         <div class="col-md-9">
             <h1>Runwei Qiang</h1>
