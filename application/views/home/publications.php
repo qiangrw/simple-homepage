@@ -28,6 +28,9 @@
                 Feng Liang, <strong>Runwei Qiang</strong>, and Jianwu Yang. PKU_ICST at TREC 2011 Microblog Track. TREC 2011.
                 </li>
             </ul>
+            
+            <p class="text-muted">My Google Scholoar Page: <a href="http://scholar.google.com/citations?user=kc4EVpcAAAAJ&hl=en">Citations</a> </p>
+            <p class="text-muted">Research Gate:  <a href="https://www.researchgate.net/profile/Runwei_Qiang">Runwei Qiang</a> </p>
 
             <br>
             <h2>Patent</h2>

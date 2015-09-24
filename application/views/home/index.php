@@ -92,7 +92,7 @@ My research interest is information retrieval and data mining techniques on Micr
 
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <img src="<?= base_url('images/skills/web_development.png') ?>" alt="Web Development">
+                <img src="<?= base_url('images/skills/data_mining.png') ?>" alt="Web Development">
                 <div class="caption">
                     <center>
                     <h3>Data Mining</h3>
