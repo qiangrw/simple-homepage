@@ -2,6 +2,7 @@
     <div class="row">
         <div class="col-md-12">
             <h2>Education</h2>
+            <hr>
             <div class="media">
                 <div class="media-left">
                     <a href="http://www.pku.edu.cn">
@@ -33,10 +34,10 @@
         </div>
     </div>
 
-    <hr>
     <div class="row">
         <div class="col-md-12">
             <h2>Work Experience</h2>
+            <hr>
             <div class="media">
                 <div class="media-left">
                     <a href="http://google.com" target="_blank">

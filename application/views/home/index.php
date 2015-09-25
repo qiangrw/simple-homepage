@@ -35,10 +35,10 @@
     </div>
 
 
-    <hr>
     <div class="row">
-        <div class="col-md-10">
+        <div class="col-md-12">
             <h2>About</h2>
+            <hr>
             <p>
             I will be a software engineer in <a href="http://google.com">Google</a> and my mentor is Tomo Nanno.
             </p>
@@ -58,10 +58,10 @@ My research interest is information retrieval and data mining techniques on Micr
         </div>
     </div>
 
-    <hr>
     <div class="row">
         <div class="col-md-12">
             <h2>Skills</h2>
+            <hr>
         </div>
     </div>
 
