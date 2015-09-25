@@ -14,7 +14,7 @@ class Home extends CI_Controller {
     public function publications()
     {
         $data['title'] = 'Publications';
-        $data['active'] = array('', 'active', '', '');
+        $data['active'] = array('', '', 'active', '');
 		$this->load->view('inc/header', $data);
 		$this->load->view('home/publications');
 		$this->load->view('inc/footer');
@@ -24,7 +24,7 @@ class Home extends CI_Controller {
     public function experience()
     {
         $data['title'] = 'Experience';
-        $data['active'] = array('', '', 'active', '');
+        $data['active'] = array('', 'active', '', '');
 		$this->load->view('inc/header', $data);
 		$this->load->view('home/experience');
 		$this->load->view('inc/footer');
