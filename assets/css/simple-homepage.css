@@ -1,4 +1,5 @@
 body { padding-top: 54px; }
+.navbar-inverse .navbar-toggle { border-color: transparent; }
 #main-container { padding: 20px 15px; }
 #main-container li { line-height: 1.8; }
 /*#navbar li {min-width: 140px; text-align: center; }*/
