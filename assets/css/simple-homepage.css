@@ -6,5 +6,6 @@ body { padding-top: 54px; }
 .thumbnail { border: none; }
 .honor-text { padding: 12px 12px; line-height: 60px; vertical-align: bottom; height: 94px; }
 .media {margin-bottom: 20px; }
-.media img { width: 64px; height: 64px;}
+img.media-object { width: 64px; height: 64px;}
 .media ul { margin-left: -20px; }
+.media .img-thumbnail { height: 150px; }

@@ -18,12 +18,12 @@
             <a target="_blank" href="http://www.linkedin.com/in/qiangrw">
                 <img src="<?= base_url('images/social/linkedin.png') ?>" alt="linkedin">
             </a> 
-            <a target="_blank" href="http://weibo.com/qiangrw">
-                <img src="<?= base_url('images/social/weibo.png') ?>" alt="weibo">
-            </a>
             <a target="_blank" href="http://github.com/qiangrw">
                 <img src="<?= base_url('images/social/github.png') ?>" alt="github">
             </a> 
+            <a target="_blank" href="http://weibo.com/qiangrw">
+                <img src="<?= base_url('images/social/weibo.png') ?>" alt="weibo">
+            </a>
             <a target="_blank" href="http://facebook.com/qiangrw">
                 <img src="<?= base_url('images/social/fb.png') ?>" alt="fb">
             </a>
@@ -35,7 +35,7 @@
     </div>
 
 
-    <br>
+    <hr>
     <div class="row">
         <div class="col-md-10">
             <h2>About</h2>
@@ -58,7 +58,7 @@ My research interest is information retrieval and data mining techniques on Micr
         </div>
     </div>
 
-    <br>
+    <hr>
     <div class="row">
         <div class="col-md-12">
             <h2>Skills</h2>
