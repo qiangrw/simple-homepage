@@ -10,13 +10,14 @@
                 </li>
 
                 <li><strong>Runwei Qiang</strong>, Feifan Fan, Chao Lv and Jianwu Yang. 
-                Knowledge-based Query Expansion in Real-Time Microblog Search. Arxiv 2015 <a href="http://arxiv.org/pdf/1503.03961v1.pdf">Download</a>
+                Knowledge-based Query Expansion in Real-Time Microblog Search. Arxiv 2015.
+                <a href="http://arxiv.org/pdf/1503.03961v1.pdf">Download</a>
                 </li>
 
                 <li>Chao Lv, Feifan Fan, <strong>Runwei Qiang</strong>, Yue Fei and Jianwu Yang. 
                 PKUICST at TREC 2014 Microblog Track: <br>
                 Feature Extraction for Effective Microblog Search and
-                Adaptive Clustering Algorithms for TTG. TREC 2014
+                Adaptive Clustering Algorithms for TTG. TREC 2014.
                 <a target="_blank" href="http://www.slideshare.net/qiangrw/feature-extraction-for-effective-microblog-search-and-adaptive-clustering-algorithms-for-ttg-42609698">PPT</a>
                 </li>
                 <li><strong>Runwei Qiang</strong>,  Yue Fei, Yihong Hong, and Jianwu Yang. PKUICST at TREC 2013 Microblog Track. TREC 2013.</li>
@@ -32,11 +33,11 @@
                 Feng Liang, <strong>Runwei Qiang</strong>, and Jianwu Yang. PKU_ICST at TREC 2011 Microblog Track. TREC 2011.
                 </li>
             </ul>
-            
+
             <p class="text-muted">My Google Scholoar Page: <a href="http://scholar.google.com/citations?user=kc4EVpcAAAAJ&hl=en">Citations</a> </p>
             <p class="text-muted">Research Gate:  <a href="https://www.researchgate.net/profile/Runwei_Qiang">Runwei Qiang</a> </p>
 
-           
+
         </div>
     </div>
 
