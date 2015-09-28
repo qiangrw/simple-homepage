@@ -1,4 +1,5 @@
 <div class="container">
+    <hr>
     <footer>
     <p>&copy; Runwei Qiang 2015</p>
     </footer>
