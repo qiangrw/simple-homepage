@@ -5,6 +5,15 @@
             <hr>
             <ul>
                 <li>
+                    Feifan Fan,<strong>Runwei Qiang</strong>, Chao Lv, Wayne Xin Zhao and Jianwu Yang. Tweet Timeline Generation via Graph-based Dynamic Greedy Clustering. AIRS 2015.
+                </li>
+                
+                <li>
+                    Chao Lv, <strong>Runwei Qiang</strong>, Lili Yao and Jianwu Yang. EEST: Entity-driven Exploratory Search for Twitter. AIRS 2015.
+                    <a href="http://eest.webkdd.org">DEMO</a>
+                </li>
+                
+                <li>
                 Feifan Fan, <strong>Runwei Qiang</strong>, Chao Lv and Jianwu Yang. 
                 Improving Microblog Retrieval with Feedback Entity Model. CIKM 2015. Accepted as full paper (co-first author).
                 </li>
