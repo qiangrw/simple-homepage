@@ -4,7 +4,6 @@ simple homepage template
 ## Update your own information
 
 * update the view file in folder application/views/home/\*.php
-* upload your CV in download folder
 
 
 ## Theme
