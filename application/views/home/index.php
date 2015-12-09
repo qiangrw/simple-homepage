@@ -8,10 +8,9 @@
         <div class="col-md-9">
             <h1>Runwei Qiang</h1>
             <p>
-            <a target="_blank" href="http://www.icst.pku.edu.cn/">Institute of Computer Science and Technology</a> of 
-            <a target="_blank" href="http://www.pku.edu.cn/">Peking University</a>
+		Software Engineer at <a target="_blank" href="http://google.com/">Google</a> 
             </p>
-            <p><strong>Office:</strong> No.128 Zhongguancun North Street, Haidian District, Beijing</p>
+            <p><strong>Office:</strong> Roppongi Hills Mori Tower, 6-10-1 Roppongi Minato-ku, Tokyo</p>
             <p><strong>Email:</strong> qiangrw#gmail.com </p>
             <br>
             <p class="social-panel"> 
@@ -40,7 +39,7 @@
             <h2>About</h2>
             <hr>
             <p>
-            I will be a software engineer in <a href="http://google.com">Google</a> and my mentor is Tomo Nanno.
+            I'm a software engineer in <a href="http://google.com">Google</a> and my manager is Tomo Nanno.
             </p>
 
             <p>
