@@ -48,7 +48,7 @@
                     <h4 class="media-heading">Software Engineer at Google Japan</h4>
                     <span class="text-muted">
                         11/2015 - present 
-                        (mentor: Tomo Nanno)
+                        (manager: Tomo Nanno)
                     </span>
                     <ul>
                         <li> Google shopping team </li>
