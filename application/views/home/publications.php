@@ -43,7 +43,7 @@
                 </li>
             </ul>
 
-            <p class="text-muted">My Google Scholoar Page: <a href="http://scholar.google.com/citations?user=kc4EVpcAAAAJ&hl=en">Citations</a> </p>
+            <p class="text-muted">My Google Scholar Page: <a href="http://scholar.google.com/citations?user=kc4EVpcAAAAJ&hl=en">Citations</a> </p>
             <p class="text-muted">Research Gate:  <a href="https://www.researchgate.net/profile/Runwei_Qiang">Runwei Qiang</a> </p>
 
 
