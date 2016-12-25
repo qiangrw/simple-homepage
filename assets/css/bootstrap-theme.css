@@ -1,16 +1,16 @@
 /*!
- * Bootstrap v3.3.5 (http://getbootstrap.com)
- * Copyright 2011-2015 Twitter, Inc.
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=cfb308efc6f84a8ecfe4)
- * Config saved to config.json and https://gist.github.com/cfb308efc6f84a8ecfe4
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=c4fcb00d5a6080e30e255e7074a86b84)
+ * Config saved to config.json and https://gist.github.com/c4fcb00d5a6080e30e255e7074a86b84
  */
 /*!
- * Bootstrap v3.3.5 (http://getbootstrap.com)
- * Copyright 2011-2015 Twitter, Inc.
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 .btn-default,
@@ -373,12 +373,12 @@ fieldset[disabled] .btn-danger.active {
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.25);
 }
 .navbar-inverse {
-  background-image: -webkit-linear-gradient(top, #00488e 0%, #002e5b 100%);
-  background-image: -o-linear-gradient(top, #00488e 0%, #002e5b 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#00488e), to(#002e5b));
-  background-image: linear-gradient(to bottom, #00488e 0%, #002e5b 100%);
+  background-image: -webkit-linear-gradient(top, #378fe7 0%, #1976d2 100%);
+  background-image: -o-linear-gradient(top, #378fe7 0%, #1976d2 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#378fe7), to(#1976d2));
+  background-image: linear-gradient(to bottom, #378fe7 0%, #1976d2 100%);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff00488e', endColorstr='#ff002e5b', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff378fe7', endColorstr='#ff1976d2', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
   border-radius: 4px;
 }

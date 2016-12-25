@@ -1,11 +1,6 @@
 <div id="main-container" class="container">
     <div class="row">
-        <div class="col-md-3" style="margin-top: 40px">
-            <center>
-            <img src="<?= base_url('images/profile.png') ?>" alt="">
-            </center>
-        </div>
-        <div class="col-md-9">
+        <div class="col-md-12">
             <h1>Runwei Qiang</h1>
             <p>
 		Software Engineer at <a target="_blank" href="http://google.com/">Google</a> 
@@ -33,15 +28,12 @@
         </div>
     </div>
 
-
     <div class="row">
         <div class="col-md-12">
-            <h2>About</h2>
             <hr>
             <p>
-            I'm a software engineer in <a href="http://google.com">Google</a> and my manager is Tomo Nanno.
+            Currently I'm a software engineer in <a href="http://google.com/shopping">Google shoping team</a>.
             </p>
-
             <p>
             I received my M.S. from EECS of <a href="http://www.pku.edu.cn">Peking University</a> (2015.7).  
 My research interest is information retrieval and data mining techniques on Microblog Search (i.e. short text retrieval), advised by <a href="http://webkdd.org/person/yangjw"> Prof. Jianwu Yang </a>. 

@@ -1,5 +1,6 @@
 body { padding-top: 54px; }
 .navbar-inverse .navbar-toggle { border-color: transparent; }
+.navbar-inverse { border: none; box-shadow: 0 2px 5px 0 rgba(0,0,0,0.24); }
 #main-container { padding: 20px 15px; }
 #main-container li { line-height: 1.8; }
 /*#navbar li {min-width: 140px; text-align: center; }*/
